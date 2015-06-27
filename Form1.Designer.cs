@@ -410,9 +410,9 @@
             this.button1.Image = global::Pafas.Properties.Resources._2014_10_18_183103;
             this.button1.Location = new System.Drawing.Point(15, 299);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(269, 91);
+            this.button1.Size = new System.Drawing.Size(139, 91);
             this.button1.TabIndex = 16;
-            this.button1.Text = "Calcular";
+            this.button1.Text = "Calcular según IG";
             this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);

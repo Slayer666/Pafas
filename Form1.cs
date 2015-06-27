@@ -388,6 +388,11 @@ namespace Pafas
             MessageBox.Show("I.G. 60-28 (1º Rev.) 09/03/12"+ System.Environment.NewLine  + "ACADEMIA BÁSICA DEL AIRE" + System.Environment.NewLine + "GRUPO DE ENSEÑANZA"+System.Environment.NewLine +"Esdron. de Alumnos" +System.Environment.NewLine +"Dpto. de Deportes"+ System.Environment.NewLine  +"Satán");
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
        
 
       
