@@ -1,4 +1,3 @@
-
 # PRUEBAS FISICAS PARA LAS FUERZAS ARMADAS
 
 
@@ -11,24 +10,35 @@ Con estas premisas, las marcas mínimas serán las que hemos destacado en la sig
 
 ## FUERZA. FLEXO-EXTENSIONES DE BRAZOS EN SUELO EN UN TIEMPO MAXIMO DE DOS MINUTOS (2 min.)
 ![Flexo-extensiones-brazos](flexo-extensiones-brazos.png)  
+
 ![Tablas-extensiones-brazos](Tablas-extensiones-brazos.jpg)
 
 
 ## FUERZA. FLEXIONES DE TRONCO (ABDOMINALES) EN TRES MINUTOS (3 min.)
 
-![Flexo-extensiones-brazos](flexo-extensiones-brazos.png)  
-![Tablas-extensiones-brazos](Tablas-extensiones-brazos.jpg)
+![Flexiones-de-tronco](flexiones-de-tronco.png)  
+
+![Tabla-flexiones-tronco](Tabla-flexiones-tronco.jpg)
 
 
 
 ## RESISTENCIA: 2000 o 6000 M LISOS
-![Flexo-extensiones-brazos](flexo-extensiones-brazos.png)  
-![Tablas-extensiones-brazos](Tablas-extensiones-brazos.jpg)
+
+### HOMBRES
+
+![Tablas-resistencia-hombres](Tablas-resistencia-hombres.jpg)
+
+### MUJERES
+
+![Tablas-resistencia-mujeres](Tablas-resistencia-mujeres.jpg)
 
 
 ## VELOCIDAD. CIRCUITO DE AGILIDAD–VELOCIDAD (CAV). Obligatorio sólo para menores de 45 años.
 
 ![Flexo-extensiones-brazos](flexo-extensiones-brazos.png)  
+
+
 ![Tablas-extensiones-brazos](Tablas-extensiones-brazos.jpg)
 
 :es: :sun_with_face: :+1:
+
