@@ -47,10 +47,10 @@ Con estas premisas, las marcas mínimas serán las que hemos destacado en la sig
 
 Calcular el resultado según los ejercicios realizados.
 
-![Pantalla principal programa](Programa.png)  
+![Pantalla principal programa](Programa.PNG)  
 
 
-![Resultados pruebas](Programa2.png)
+![Resultados pruebas](Programa2.PNG)
 
 
 
