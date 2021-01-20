@@ -1,3 +1,5 @@
+
+
 # PRUEBAS FISICAS PARA LAS FUERZAS ARMADAS
 
 
@@ -39,6 +41,18 @@ Con estas premisas, las marcas mínimas serán las que hemos destacado en la sig
 
 
 ![Tablas-extensiones-brazos](Tablas-extensiones-brazos.jpg)
+
+
+# Que hace este programa:
+
+Calcular el resultado según los ejercicios realizados.
+
+![Pantalla principal programa](Programa.png)  
+
+
+![Resultados pruebas](Programa2.png)
+
+
 
 :es: :sun_with_face: :+1:
 
